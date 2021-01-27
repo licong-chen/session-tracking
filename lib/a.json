@@ -1,6 +1,0 @@
-{
-  "name": "session-tracking",
-  "version": "0.0.1",
-  "description": "Sesssoin Tracking JS liburay with ES6",
-  "main": "lib/tracking-lib.js"
-}
